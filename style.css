@@ -1,0 +1,28 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#title {
+
+    text-align: center;
+}
+
+.link1 {
+
+    float: left;
+
+}
+
+.link2 {
+
+    float: right;
+}
+
+.explication {
+
+    text-align: center;
+    width: 441px;
+    margin-top: 10%;
+}
