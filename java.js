@@ -1,0 +1,1 @@
+const dano = 36

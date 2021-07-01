@@ -1,5 +1,6 @@
 body {
 
+    background-color: rgb(119, 178, 226);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -11,13 +12,7 @@ body {
 
 .link1 {
 
-    float: left;
-
-}
-
-.link2 {
-
-    float: right;
+    text-align: center;
 }
 
 .explication {
@@ -25,4 +20,15 @@ body {
     text-align: center;
     width: 441px;
     margin-top: 10%;
+}
+
+.img1 {
+
+    float: right;
+    height: 10px;
+}
+
+.img2 {
+
+    margin-top: 30px;
 }
